@@ -20,7 +20,7 @@
 
 
 
-## 大数据分析师知识分享
+
 ### 1 环境搭建 
 
 [MySQL及可视化IDE安装及配置](https://mp.weixin.qq.com/s/3abaj7O6z0VuoV7tp3SULQ)
