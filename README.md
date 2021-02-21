@@ -17,3 +17,11 @@
 		<img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-orange" alt="License">
 	</a>
 </p>
+
+
+
+大数据分析师知识分享
+
+[MySQL及可视化IDE安装及配置](https://mp.weixin.qq.com/s/3abaj7O6z0VuoV7tp3SULQ)
+[数据分析-Excel图表](https://mp.weixin.qq.com/s?__biz=MzI4ODM4MDYwNA==&mid=2247483765&idx=1&sn=906138124633ce1178d3bf8aa0e6b4f8&chksm=ec3e02a6db498bb0c9f335de60c511fead3e5208e29bae7a4e4248be60d4c9682ba03250eb79&token=1690500345&lang=zh_CN#rd)
+
