@@ -20,9 +20,49 @@
 
 
 
-大数据分析师知识分享
+## 大数据分析师知识分享
+### 1 环境搭建 
 
 [MySQL及可视化IDE安装及配置](https://mp.weixin.qq.com/s/3abaj7O6z0VuoV7tp3SULQ)
 
+[Python环境搭建及IDE安装](https://mp.weixin.qq.com/s/1RUqlzulDbebwK0yRPxIAg)
+
+[最全面的深度学习框架pytorch搭建过程](https://mp.weixin.qq.com/s/8YhNCKI32mPZIPOPpFdRrw)
+
+### 2 Excel 
+[Excel基础操作](https://mp.weixin.qq.com/s/0pzBHhVTDuVkbgv_HW7Pww)
+
+[Excel函数](https://mp.weixin.qq.com/s/98pFuv5IuzQy_qRThlwHfw)
+
 [数据分析-Excel图表](https://mp.weixin.qq.com/s?__biz=MzI4ODM4MDYwNA==&mid=2247483765&idx=1&sn=906138124633ce1178d3bf8aa0e6b4f8&chksm=ec3e02a6db498bb0c9f335de60c511fead3e5208e29bae7a4e4248be60d4c9682ba03250eb79&token=1690500345&lang=zh_CN#rd)
+
+[Excel透视表](https://mp.weixin.qq.com/s/MGe0f-7KJVRHlpnhhnzC9g)
+
+### SQL
+[SQL基础](https://mp.weixin.qq.com/s/8pGyetMGSzXzykmbE_nL4Q)
+
+[SQL函数](https://mp.weixin.qq.com/s/GCNv06qrhwC9mnpsjIDOSA)
+
+[SQL进阶](https://mp.weixin.qq.com/s/LXBO_AoJz7_1fnDzWStcxA)
+
+[数据分析-SQL高阶（窗口函数）](https://mp.weixin.qq.com/s/JZgzUyKJvov0Y48sJmp5zg)
+
+[SQL分组函数和聚合函数的几点说明](https://mp.weixin.qq.com/s/56f5LLStrSWAd-j8P5L-7w)
+
+### Hive
+[阿里云搭建Hadoop集群](https://mp.weixin.qq.com/s/hFXO8SuQyvzhZQo2vBmXyQ)
+
+[阿里云搭建hadoop集群补充](https://mp.weixin.qq.com/s/p_ywgxC8nfqAoOXkFUQHDw)
+
+[一文带你了解HDFS的shell命令](https://mp.weixin.qq.com/s/6TG2lnEaTUaK_4-2Wf_Miw)
+
+[一文带你了解数据仓库HIVE的安装过程](https://mp.weixin.qq.com/s/YFV_IW3azUcw1Fc4poZI_A)
+
+### Python
+
+[python基础](https://mp.weixin.qq.com/s/4mDGFN_100gXb9rsHihSnw)
+
+
+
+
 
