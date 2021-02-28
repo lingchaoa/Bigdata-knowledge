@@ -62,6 +62,8 @@
 
 [python基础](https://mp.weixin.qq.com/s/4mDGFN_100gXb9rsHihSnw)
 
+[python内置数据结构和字符串](https://mp.weixin.qq.com/s/YY5V-p7wzwnp5Hjmb5dHVQ)
+
 
 
 
