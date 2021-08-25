@@ -64,6 +64,13 @@
 
 [python内置数据结构和字符串](https://mp.weixin.qq.com/s/YY5V-p7wzwnp5Hjmb5dHVQ)
 
+[python函数与Lambda表达式(上)](https://mp.weixin.qq.com/s/-aMQlGWjrYrH1Mi8XgrjLg)
+
+[python函数与Lambda表达式(下)](https://mp.weixin.qq.com/s/c0A8YlJimqC7xrnWF_fPAA)
+
+[python类与对象（上）](https://mp.weixin.qq.com/s/pWPFDakRhrdb34eweVLvoQ)
+
+[python类与对象（下）](https://mp.weixin.qq.com/s/pxqnNz9_AVOGCWpCtBE6jg)
 
 
 
