@@ -86,7 +86,7 @@
 
 
 ### 运维
-[centos下部署SVN记录]{https://mp.weixin.qq.com/s/b5S13OQeRpMxFMYkzpyqmw}
+[centos下部署SVN记录](https://mp.weixin.qq.com/s/b5S13OQeRpMxFMYkzpyqmw)
 
 
 
