@@ -72,6 +72,21 @@
 
 [python类与对象（下）](https://mp.weixin.qq.com/s/pxqnNz9_AVOGCWpCtBE6jg)
 
+[python模块与包](https://mp.weixin.qq.com/s/qfIDs9avoxsrDplrrhGdvQ)
+
+[python文件操作](https://mp.weixin.qq.com/s/0BNyQqBNsdvg6sd3Kzxr8g)
+
+### numpy 
+[numpy基础](https://mp.weixin.qq.com/s/MHAa6RNKP6m1ckkEXfPdnA)
+
+
+
+
+
+
+
+### 运维
+[centos下部署SVN记录]{https://mp.weixin.qq.com/s/b5S13OQeRpMxFMYkzpyqmw}
 
 
 
